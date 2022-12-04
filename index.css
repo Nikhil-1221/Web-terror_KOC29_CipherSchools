@@ -24,7 +24,7 @@
 }
 
 .logo{
-    color:#f19710;
+    color:#c54914;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -254,7 +254,7 @@ ul li a:hover{
     text-align: center;
 }
 .form .link a{
-    /* text-decoration: none; */
+    text-decoration: none;
     color: #ff7200;
 }
 .liw{
@@ -263,7 +263,7 @@ ul li a:hover{
     text-align: center;
 }
 .icons a{
-    /* text-decoration: none; */
+    text-decoration: none;
     color: #fff;
 }
 .icons ion-icon{
@@ -271,7 +271,7 @@ ul li a:hover{
     font-size: 30px;
     padding-left: 14px;
     padding-top: 5px;
-    /* transition: 2s ease; */
+    transition: 2s ease;
 }
 .icons ion-icon:hover{
     color: #ff7200;
